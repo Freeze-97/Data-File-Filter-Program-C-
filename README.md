@@ -1,4 +1,4 @@
-# Data File Filter Program (C++)
+# 🖥️ Data File Filter Program (C++)
 This C++ program reads numerical values from a file, filters them based on a specified valid range, and handles both format and range errors. It demonstrates template usage, file I/O, exception handling, and basic data filtering.
 
 ## 📋 Description
